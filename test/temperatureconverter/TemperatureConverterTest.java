@@ -4,7 +4,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class TemperatureConverterTest {
-    
+
     public TemperatureConverterTest() {
     }
 
@@ -23,5 +23,4 @@ public class TemperatureConverterTest {
         assertEquals(212, TemperatureConverter.CtoF(100), 0.00); //C boiling temp
         assertEquals(98.6, TemperatureConverter.CtoF(37), 0.00); //C body temp
     } //end testCtoF
-    
 } //end class TemperatureConverterTest
