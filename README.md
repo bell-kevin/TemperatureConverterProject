@@ -26,11 +26,9 @@ To concentrate on the unit testing, here is the pseudocode for the project:
       answer = input converted to lowercase;
 
 
-The code for methods CtoF() and FtoC() is the same in Java and C#:
+The code for methods CtoF() and FtoC() is the same in Java and C#.
 
 Temp Converter methods
-
- 
 
 Create this project, type in this code, and make sure it runs and produces results like the example above.
 
@@ -51,7 +49,6 @@ Include all 3 assertions in each test.
 Take a screenshot of the output showing the tests passed. Take screenshots of the code for the project and for the unit tests.
 
 Submission: screenshot of passing unit tests, screenshots of code, root folder for the project
-
 
 == We're Using GitHub Under Protest ==
 
